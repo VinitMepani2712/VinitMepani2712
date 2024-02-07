@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinitMepani
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Coding, Advanture, Sports.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me Find a way.
 - 😄 Pronouns: He/Him
