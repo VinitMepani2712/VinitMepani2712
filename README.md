@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with dart, flutter, HTML, CSS, JS, JAVA</h2>
+<h2 align="left">I code with Dart, Flutter, HTML, CSS, JS, JAVA</h2>
 
 ###
 
