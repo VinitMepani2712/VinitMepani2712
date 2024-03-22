@@ -45,13 +45,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
 
 </div>
 
 ###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinitMepani2712&show_icons=true&locale=en&layout=compact" alt="VinitMepani2712" /></p>
+
+###
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VinitMepani2712&" alt="VinitMepani2712" /></p>
