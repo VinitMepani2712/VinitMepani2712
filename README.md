@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">✨ Creating Web and App after my High school <br>📚 I'm currently learning Flutter <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Playing with Laptop <br>📚 I'm learner <br>🎯 Goals: Meet me and I will tell.. <br>🎲 Fun fact: You have to find.. </p>
 
 ###
 
-<h2 align="left">I code with </h2>
+<h2 align="left">I play with </h2>
 
 ###
 
