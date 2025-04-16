@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vinit Mepani and I'm a Learner, from Surat, GJ, India </p>
+<p align="left">My name is Vinit Mepani and I'm a Learner</p>
 
 ###
 
