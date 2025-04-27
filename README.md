@@ -21,6 +21,12 @@
   <img src="https://skillicons.dev/icons?i=js,ts,flutter,nodejs,react,nextjs,html,css,java,cpp,mysql" alt="Tech Stack" />
 </p>
 
+🛠 **What I work with:**  
+- Frontend: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Flutter**, **React.js**, **Next.js**  
+- Backend: **Node.js**, **Express.js**  
+- Databases: **MySQL**, **MongoDB**  
+- Languages: **C++**, **Java**, **Python**  
+- Cloud & DevOps: **AWS**, **Docker**
 ---
 
 ### 📈 GitHub Stats
