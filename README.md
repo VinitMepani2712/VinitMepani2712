@@ -30,10 +30,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitMepani&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.app/api/top-langs/?username=VinitMepani&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
