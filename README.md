@@ -16,34 +16,34 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,flutter,nodejs,react,nextjs,html,css,java,cpp,mysql" alt="Tech Stack" />
+### 🚀 Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,nodejs,react,nextjs,java,cpp,mysql&theme=light" alt="Skills" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani&show_icons=true&theme=default&hide_border=true" width="48%" alt="Vinit's GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitMepani&theme=default&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitMepani&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani&layout=compact&theme=default&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+### 🌐 Connect With Me
+<p align="center">
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+---
+
+> 🌟 *Every day is a chance to learn something new and build something amazing!*
 ---
 
 > ⚡ *Let's learn, build, and grow together!*
