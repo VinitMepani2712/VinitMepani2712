@@ -21,14 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,flutter,nodejs,react,nextjs,html,css,java,cpp,mysql" alt="Tech Stack" />
 </p>
 
-🛠 **What I work with:**  
-- Frontend: **HTML**, **CSS**, **JavaScript**, **TypeScript**, **Flutter**, **React.js**, **Next.js**  
-- Backend: **Node.js**, **Express.js**  
-- Databases: **MySQL**, **MongoDB**  
-- Languages: **C++**, **Java**, **Python**  
-- Cloud & DevOps: **AWS**, **Docker**
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
@@ -39,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.app/api/top-langs/?username=VinitMepani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
