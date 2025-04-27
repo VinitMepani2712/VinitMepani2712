@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things!;Passionate+about+Coding!;Let's+Build+Together!🚀" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinitMepani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ### ✨ About Me
