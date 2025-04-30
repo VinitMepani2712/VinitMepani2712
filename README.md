@@ -24,6 +24,11 @@
 </p>
 
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani2712&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
+ </p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani2712&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
 </p>  
 
