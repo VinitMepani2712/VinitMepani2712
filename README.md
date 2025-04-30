@@ -23,6 +23,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,flutter,nodejs,react,nextjs,html,css,java,cpp,mysql" alt="Tech Stack" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani2712&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
+</p>  
+
 <!-- 🔥 GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
