@@ -25,7 +25,7 @@
 
 <!-- 🔥 GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?username=VinitMepani2712&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- 📊 Top Languages -->
