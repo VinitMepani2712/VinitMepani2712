@@ -41,7 +41,7 @@
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/vinit-mepani-883576206/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
-<a href="mailto:vinitmepani2712.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="mailto:vinitmepani2712@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://vinitmepani-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
