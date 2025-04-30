@@ -18,23 +18,21 @@
 
 ---
 
-### 🛠️ Tech Stack
+<!-- 🚀 Tech Stack Icons -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,flutter,nodejs,react,nextjs,html,css,java,cpp,mysql" alt="Tech Stack" />
 </p>
 
+<!-- 🔥 GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
-</p>
-
-
+<!-- 📊 Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani2712&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
