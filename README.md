@@ -27,12 +27,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani2712&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
 </p>  
 
-<!-- 🔥 GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
-</p>
 
-<!-- 📊 Top Languages -->
+ <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
+ </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani2712&layout=compact&theme=radical" alt="Top Languages" />
 </p>
