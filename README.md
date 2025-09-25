@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=VinitMepani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ### ✨ About Me
 - 🎯 I’m a **Lifelong Learner** exploring the world of technology.
 - 💻 Currently learning **Full Stack Development** and **Cloud Computing**.
@@ -18,34 +20,35 @@
 
 ---
 
-<!-- 🚀 Tech Stack Icons -->
-<p align="left">
+### 🛠️ Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,flutter,nodejs,react,nextjs,html,css,java,cpp,mysql" alt="Tech Stack" />
 </p>
 
+---
+
+### 📊 GitHub Highlights
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VinitMepani2712&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VinitMepani2712&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani2712&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani2712&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VinitMepani2712&show_icons=true&theme=radical&hide_border=true" alt="Vinit's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitMepani2712&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/vinit-mepani-883576206/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
-<a href="mailto:vinitmepani2712@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://vinitmepani-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinit-mepani-883576206/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:vinitmepani2712@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://vinitmepani-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=firefox&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
 
 > ⚡ *Let's learn, build, and grow together!*
-
