@@ -56,9 +56,6 @@
   <a href="https://vinitmepani-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://github.com/VinitMepani2712" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
